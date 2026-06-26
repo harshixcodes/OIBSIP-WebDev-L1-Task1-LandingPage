@@ -7,8 +7,8 @@ Features
 
 1) Sticky navigation bar with smooth scrolling
 2) Modern hero section with call-to-action buttons
-3) Feature cards showcasing StudyAI services
-4)About section introducing the platform
+3) Feature cards showcasing StudyAI services 
+4)About section introducing the platform  
 5)Student testimonials with profile images
 6)Responsive footer with contact details and social links
 7)Fully responsive design for desktop and mobile devices
