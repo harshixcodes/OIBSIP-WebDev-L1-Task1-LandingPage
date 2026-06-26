@@ -17,18 +17,18 @@ Features
 
 Technologies Used
 
-HTML5
-CSS3
-Google Fonts 
-CSS Flexbox
+HTML5,
+CSS3,
+Google Fonts ,
+CSS Flexbox,and
 CSS Grid
 
 Website Sections
 
-Home
-Features
-About
-Testimonials
+Home,
+Features,
+About,
+Testimonials,and
 Contact
 
 💻 How to Run
