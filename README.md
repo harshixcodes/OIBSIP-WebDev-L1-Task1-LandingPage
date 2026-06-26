@@ -25,7 +25,7 @@ CSS Grid
 
 Website Sections
 
- Home
+Home
 Features
 About
 Testimonials
